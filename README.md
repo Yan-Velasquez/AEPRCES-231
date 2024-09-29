@@ -23,6 +23,7 @@ Este repositorio contiene el código y los archivos necesarios para entrenar y v
 
 
 2. Modelos
+
    Se encuentran los siguiente archivos principales:
    
    MGMM_fold.R: Entrenamiento y validación del modelo MGMM utilizando k-fold cross-validation.
